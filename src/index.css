@@ -1,0 +1,62 @@
+.header h1
+{
+    text-align: center;
+    padding: 15px;
+
+}
+.header
+{
+    background-color: palevioletred;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.footer h1
+{
+    text-align: center;
+    padding: 15px;
+
+}
+.footer
+{
+    background-color: palevioletred;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+.content
+{
+    background-color: pink;
+    border-radius: 8px;
+    padding-block: 10px;
+    padding: 10px;
+}
+.content ul
+{
+    list-style: none;
+    padding-left: 0;
+}
+.containerr
+{
+    width: 95% !important;
+    margin: auto;
+}
+.point{
+    cursor: pointer;
+}
+.point i 
+{
+    font-size: 8px;
+    margin-right: 7px;
+    margin-left: 3px;
+}
+.infoo i 
+{
+    color: red;
+}
+.infoo span {
+    font-size: 14px;
+}
+.buttons  
+{
+    flex-wrap: wrap;
+}
